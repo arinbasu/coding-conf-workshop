@@ -1,2 +1,11 @@
-# coding-conf-workshop
+# Workshop on computational data analysis
+
 Coding Conference Workshop on natural language processing, Christchurch, 4th September 2019
+
+The jupyter notebook: 
+
+https://jupyterhub.canterbury.ac.nz/teaching/user/<your-user-name>/lab?redirects=2
+  
+The slide decks:
+
+https://arinbasu.github.io/coding-conf-workshop/present.html#/title-slide
