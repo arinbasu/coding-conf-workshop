@@ -8,3 +8,7 @@ https://jupyterhub.canterbury.ac.nz/teaching/user/<your-user-name>/lab?redirects
 The slide decks
 
 https://arinbasu.github.io/coding-conf-workshop/present.html#/title-slide
+
+Alternative:
+
+https://arinsclasses.info.tm/teaching/hub/login
