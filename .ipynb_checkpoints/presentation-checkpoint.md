@@ -1,18 +1,20 @@
-
 ---
 title: Computational text analysis
 author: Arindam Basu
 ---
----
+
+
 ## How to work with these lessons
+
 - Visit [Jupyter Notebook for the project](https://arinsclasses.info.tm:8000/teaching/user/<your_username>/lab)
 - Log in with your username and password
 - Follow the instructions as I post them on screen and work
 - If you get stuck, stick the red sticky note on your computer
-- If you can accomplish the task, leave a green sticky note on your computer lid
+- Otherwise, leave a green sticky note on your computer lid
 
 ---
 ## Session 1: Log in and warm up
+
 - 9:00-9:30: Introduction and warm up 
 - select(), filter(), arrange(), summarise() group_by(), mutate()
 - gather(), and spread()
@@ -83,5 +85,4 @@ author: Arindam Basu
 - `group by() %>% summarise()` can summarise groups of data
 
 ---
-## More with tidy data
 
