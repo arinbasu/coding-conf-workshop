@@ -4,7 +4,7 @@ Coding Conference Workshop on natural language processing, Christchurch, 4th Sep
 
 The jupyter notebook: 
 
-https://jupyterhub.canterbury.ac.nz/teaching/user/<your-user-name>/lab?redirects=2
+`https://jupyterhub.canterbury.ac.nz/teaching/user/<your-user-name>/lab?redirects=2`
   
 The slide decks:
 
